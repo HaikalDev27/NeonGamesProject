@@ -455,4 +455,33 @@ section .question .quest p{
     .menu.active{
         left: 300px;
     }
+
+    .box img{
+        width: 100px;
+        height: 100px;
+    }
+
+    section .version p,
+    section .decs p,
+    section .overview p{
+    font-size: 15px;
+    font-weight: lighter;
+    }
+
+    .contact-us{
+        width: 90%;
+    }
+
+    .contact-us form{
+        width: 100%;
+    }
+
+    .footer h3{
+        font-size: 10px;
+        line-height: 15px;
+    }
+
+    #copyright{
+        font-size: 7px;
+    }
 }
